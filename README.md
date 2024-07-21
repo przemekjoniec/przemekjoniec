@@ -16,9 +16,10 @@
 
 <h2>👨🏼‍💻I'm Currently Learning:</h2>
 
--JAVASCRIPT
+-Javascript
 
 <h2>💻 Tech Stack:</h2>
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 
 <br><br>
 
