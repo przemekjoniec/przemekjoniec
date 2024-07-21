@@ -18,8 +18,9 @@
 
 -Javascript
 
+<h2>💻 Tech Stack:</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=green" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -39,7 +40,7 @@
 </p>
 <br><br>
 
-<h2>Stats</h2>
+<h2>📊 Stats:</h2>
 
 <div>
   <p align="center">
@@ -47,6 +48,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekjoniec" alt="GitHub Stats" /> <br/><br/>
 </div>
 
-<h2>About Me:</h2>
+<h2>🔍 About Me:</h2>
 
 👨🏼‍🎓 I am a student at a technical school, specializing in IT. 👨🏼‍💻I am fascinated by the world of web development, and I dedicate a lot of time to learning programming and creating websites. Besides that, I have many other passions. 🪴I love plants and spend my free time taking care of them. 🌲I also value being close to nature, so any opportunity to be outdoors is priceless to me. 📖I am interested in history and enjoy watching movies that can captivate me for hours.
