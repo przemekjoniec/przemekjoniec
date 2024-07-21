@@ -7,10 +7,20 @@
 🌻I'm Przemek Joniec!
 
 - <i>I'm doing a course's:</i> The Odin Project, and Web Development Bootcamp from Dr. Angela Yu
+- <i>All of my projects are available at</i> https://github.com/przemekjoniec?tab=repositories
+
+☎️ Contact with me:
+
+- <i>✉️ Email:</i> joniecprzemek098@gmail.com
+- <i>👾 Discord:</i> lorenzo_malta
 
 <h2>👨🏼‍💻I'm Currently Learning:</h2>
 
 -JAVASCRIPT
+
+<h2>💻 Tech Stack:</h2>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br><br>
 
 <h2>Stats</h2>
 
