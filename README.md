@@ -4,7 +4,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=przemekjoniec.przemekjoniec)](https://github.com/przemekjoniec) [![GitHub followers](https://img.shields.io/github/followers/przemekjoniec.svg?style=social&label=Follow)](https://github.com/przemekjoniec?tab=followers)
 
-🌻I'm Przemek Joniec!
+🌻I'm Przemek Joniec! Passionate Web Developer.
 
 - <i>I'm doing a course's:</i> The Odin Project, and Web Development Bootcamp from Dr. Angela Yu
 - <i>All of my projects are available at</i> https://github.com/przemekjoniec?tab=repositories
@@ -16,7 +16,7 @@
 
 <h2>👨🏼‍💻I'm Currently Learning:</h2>
 
--Javascript
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 <h2>💻 Tech Stack:</h2>
 <p align="center">
