@@ -11,8 +11,8 @@
 
 ☎️ Contact with me:
 
-- <i><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></i> joniecprzemek098@gmail.com
-- <i><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></i> lorenzo_malta
+- <i>✉️ Email:</i> joniecprzemek098@gmail.com
+- <i>👾 Discord:</i> lorenzo_malta
 
 <h2>👨🏼‍💻I'm Currently Learning:</h2>
 
