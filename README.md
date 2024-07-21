@@ -1,4 +1,4 @@
-![Przemek Joniec Banner Image](./banner.png)
+![Przemek Joniec Banner Image](./banner1.png)
 
 <h2>👋🏼 Hey!</h2>
 
