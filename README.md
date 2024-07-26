@@ -5,8 +5,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=przemekjoniec.przemekjoniec)](https://github.com/przemekjoniec) [![GitHub followers](https://img.shields.io/github/followers/przemekjoniec.svg?style=social&label=Follow)](https://github.com/przemekjoniec?tab=followers)
 
 🌻I'm Przemek Joniec! Passionate Web Developer.
-
-- <i>I'm doing a course's:</i> The Odin Project, and Web Development Bootcamp from Dr. Angela Yu
 - <i>All of my projects are available at</i> https://github.com/przemekjoniec?tab=repositories
 
 ☎️ Contact with me:
