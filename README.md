@@ -46,5 +46,7 @@
 
 <h2>🔍 About Me:</h2>
 
-👨🏼‍🎓 I am a student at a technical school, specializing in IT. 👨🏼‍💻I am fascinated by the world of web development, and I dedicate a lot of time to learning programming and creating websites. Besides that, I have many other passions. 🪴I love plants and spend my free time taking care of them. 🌲I also value being close to nature, so any opportunity to be outdoors is priceless to me. 📖I am interested in history and enjoy watching movies that can captivate me for hours.<br>
+👨🏼‍🎓 I am a student at a technical school, specializing in IT. 👨🏼‍💻I am fascinated by the world of web development, and I dedicate a lot of time to learning programming and creating websites. Besides that, I have many other passions. 🪴I love plants and spend my free time taking care of them. 🌲I also value being close to nature, so any opportunity to be outdoors is priceless to me. 📖I am interested in history and enjoy watching movies that can captivate me for hours.
+<br>
+<br>
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=przemekjoniec.przemekjoniec)](https://github.com/przemekjoniec) [![GitHub followers](https://img.shields.io/github/followers/przemekjoniec.svg?style=social&label=Follow)](https://github.com/przemekjoniec?tab=followers)
