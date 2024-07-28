@@ -2,7 +2,7 @@
 
 <h2>👋🏼 Hey!</h2>
 
-<h1>🌻I'm Przemek Joniec! Passionate Web Developer.</h1><br>
+<h2>🌻I'm Przemek Joniec! Passionate Web Developer.</h2><br>
 
 💻 All of my projects are available at:
 - https://github.com/przemekjoniec?tab=repositories
