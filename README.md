@@ -3,12 +3,12 @@
 <h2>👋🏼 Hey!</h2>
 
 🌻I'm Przemek Joniec! Passionate Web Developer.<br>
-<i>All of my projects are available at:</i>
+
+💻 All of my projects are available at:
 - https://github.com/przemekjoniec?tab=repositories
 - https://codepen.io/przemekjoniec
 
 ☎️ Contact with me:
-
 - <i>✉️ Email:</i> joniecprzemek098@gmail.com
 - <i>👾 Discord:</i> lorenzo_malta
 
