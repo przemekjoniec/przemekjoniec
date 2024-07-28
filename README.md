@@ -3,7 +3,7 @@
 <h2>👋🏼 Hey!</h2>
 
 🌻I'm Przemek Joniec! Passionate Web Developer.
-- <i>All of my projects are available at:</i>
+<i>All of my projects are available at:</i>
 - https://github.com/przemekjoniec?tab=repositories
 - https://codepen.io/przemekjoniec
 
