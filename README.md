@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 <br><br>
-<h2>💻 Road to Fullstack:</h2>
+<h2>🛫 Road to Fullstack:</h2>
 ✅HTML <br>
 ✅CSS <br>
 ✅JAVASCRIPT <br>
