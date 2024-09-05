@@ -38,10 +38,11 @@
 ✅HTML <br>
 ✅CSS <br>
 ✅JAVASCRIPT <br>
+⚙️PYTHON
 ⌛️REACT <br>
 ⌛️NODE.JS <br>
 ⌛️MONGO DB / MySQL <br>
-❔PYTHON
+
 
 <h2>📊 Stats:</h2>
 
