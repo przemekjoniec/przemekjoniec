@@ -38,7 +38,7 @@
 ✅HTML <br>
 ✅CSS <br>
 ✅JAVASCRIPT <br>
-⚙️PYTHON
+⚙️PYTHON <br>
 ⌛️REACT <br>
 ⌛️NODE.JS <br>
 ⌛️MONGO DB / MySQL <br>
