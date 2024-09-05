@@ -15,6 +15,7 @@
 <h2>👨🏼‍💻I'm Currently Learning:</h2>
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <h2>💻 Tech Stack:</h2>
 <p align="center">
