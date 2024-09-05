@@ -35,13 +35,13 @@
 </p>
 <br><br>
 <h2>🛫 Road to Fullstack:</h2>
-📪HTML <br>
-📪CSS <br>
-📪JAVASCRIPT <br>
-📬PYTHON <br>
-📬MONGO DB / MySQL <br>
-📭REACT <br>
-📭NODE.JS
+✅HTML <br>
+✅CSS <br>
+✅JAVASCRIPT <br>
+⚙️PYTHON <br>
+⚙️MONGO DB / MySQL <br>
+⏳REACT <br>
+⏳NODE.JS
 
 
 <h2>📊 Stats:</h2>
