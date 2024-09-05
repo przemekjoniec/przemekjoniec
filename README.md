@@ -39,9 +39,9 @@
 ✅CSS <br>
 ✅JAVASCRIPT <br>
 ⚙️PYTHON <br>
+⚙️MONGO DB / MySQL <br>
 ⌛️REACT <br>
-⌛️NODE.JS <br>
-⌛️MONGO DB / MySQL <br>
+⌛️NODE.JS
 
 
 <h2>📊 Stats:</h2>
