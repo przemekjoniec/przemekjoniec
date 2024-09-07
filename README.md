@@ -39,10 +39,12 @@
 ✅HTML <br>
 ✅CSS <br>
 ✅JAVASCRIPT <br>
+✅SQL
 ⚙️PYTHON <br>
-⚙️MONGO DB / MySQL <br>
+⏳MONGO DB<br>
 ⏳REACT <br>
 ⏳NODE.JS
+⏳EXPRESS.JS
 
 
 <h2>📊 Stats:</h2>
