@@ -39,7 +39,7 @@
 ✅HTML <br>
 ✅CSS <br>
 ✅JAVASCRIPT <br>
-✅SQL
+✅SQL <br>
 ⚙️PYTHON <br>
 ⏳MONGO DB<br>
 ⏳REACT <br>
