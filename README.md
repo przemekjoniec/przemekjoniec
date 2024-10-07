@@ -4,9 +4,10 @@
 
 🌻I'm Przemek Joniec! Passionate Web Developer.<br>
 
-💻 All of my projects are available at:
+💻 All of my work are available at:
 - https://github.com/przemekjoniec?tab=repositories
 - https://codepen.io/przemekjoniec
+- https://leetcode.com/u/przemekjoniec/
 
 ☎️ Contact with me:
 - <i>✉️ Email:</i> joniecprzemek098@gmail.com
