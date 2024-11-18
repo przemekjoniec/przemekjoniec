@@ -1,5 +1,3 @@
-![Przemek Joniec Banner Image](./banner.png)
-
 <h2>👋🏼 Hey!</h2>
 
 🌻I'm Przemek Joniec.<br>
