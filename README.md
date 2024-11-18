@@ -1,8 +1,8 @@
-![Przemek Joniec Banner Image](./banner1.png)
+![Przemek Joniec Banner Image](./banner.png)
 
 <h2>👋🏼 Hey!</h2>
 
-🌻I'm Przemek Joniec! Passionate Web Developer.<br>
+🌻I'm Przemek Joniec.<br>
 
 💻 All of my work are available at:
 - https://github.com/przemekjoniec?tab=repositories
