@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-<br><br>
 <h2>🔍 About Me:</h2>
 
 👨🏼‍🎓 I am a student at a technical school, specializing in IT. 👨🏼‍💻I am fascinated by the world of web development, and I dedicate a lot of time to learning programming and creating websites. Besides that, I have many other passions. 🪴I love plants and spend my free time taking care of them. I also love going to gym 📖I am interested in history and enjoy watching movies that can captivate me for hours.
