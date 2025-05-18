@@ -10,6 +10,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Godot%20Engine-white?style=flat&logo=godotengine" />
+
 </p>
 <h2>💻 Tech Stack:</h2>
 <p align="center">
