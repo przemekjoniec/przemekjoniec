@@ -6,7 +6,7 @@
 
 🛰️ My long-term interests include Earth observation, geoinformatics, and space-related technologies — especially where data and real-world impact meet.
 
-🧑🏼‍💻 Here you'll find projects related to SQL, Python, GIS, and remote sensing as I build skills and share what I learn along the way.<br>
+💾 Here you'll find projects related to SQL, Python, GIS, and remote sensing as I build skills and share what I learn along the way.<br>
 
 ☎️ Contact with me:
 - <i>✉️ Email:</i> joniecprzemek098@gmail.com
