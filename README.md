@@ -1,6 +1,12 @@
-<h2>👋🏼 Hey!</h2>
+<h2>👋🏼 Hi There!</h2>
 
-🌻I'm Przemek Joniec.<br>
+🌻 My name is Przemyslaw Joniec!
+
+🎓 I'm a Geospatial Computer Science and Engineering student at AGH University of Science and Technology. I’m exploring the world of data analysis, working on projects that combine spatial data, technology, and scientific curiosity.
+
+🛰️ My long-term interests include Earth observation, geoinformatics, and space-related technologies — especially where data and real-world impact meet.
+
+🧑🏼‍💻 Here you'll find projects related to SQL, Python, GIS, and remote sensing as I build skills and share what I learn along the way.<br>
 
 ☎️ Contact with me:
 - <i>✉️ Email:</i> joniecprzemek098@gmail.com
