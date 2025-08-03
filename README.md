@@ -2,7 +2,7 @@
 
 🌻 My name is Przemyslaw Joniec!
 
-🎓 I'm a Geospatial Computer Science and Engineering student at AGH University of Science and Technology. I’m exploring the world of data analysis, working on projects that combine spatial data, technology, and scientific curiosity.
+🎓 I'm a Geospatial Computer Science and Engineering student at AGH University of Science and Technology. I’m exploring the world of data analysis, working on projects that combine data, spatial data, technology, and scientific curiosity.
 
 🛰️ My long-term interests include Earth observation, geoinformatics, and space-related technologies — especially where data and real-world impact meet.
 
