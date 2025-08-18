@@ -13,7 +13,7 @@
 - <i>👾 Discord:</i> lorenzo_malta
 
 <h2>💻 Tech Stack:</h2>
-<p align="center">
+<p align="left">
 <h3>💻 Data Analysis:</h3>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
